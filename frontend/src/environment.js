@@ -1,6 +1,6 @@
 let IS_PROD = true;
 const server = IS_PROD ?
-    "https://zoomc-vns-backend.onrender.com" :
+    "https://vns-vc-backend.onrender.com":
 
     "http://localhost:8000"
 
